@@ -1,0 +1,27 @@
+@media screen and (min-width: 576px) {
+    
+}
+@media screen and (min-width: 768px) {
+    .offcanvas {
+        --bs-offcanvas-width: 600px;
+    }
+}
+@media screen and (min-width: 992px) {
+    #nav-bar-sx {
+        background-color: #051E34;
+        background-image: url(../img/sidebar-bg.png);
+        height: calc(100vh - 80px);
+        padding-left: 0;
+        width: 150px;
+    }
+    .col-dx-celeste {
+        background-color: #1B72E8;
+        width: calc(100vw - 150px);
+    }  
+}
+@media screen and (min-width: 1200px) {
+    
+}
+@media screen and (min-width: 1400px) {
+    
+}
