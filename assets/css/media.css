@@ -16,8 +16,12 @@
     }
     .col-dx-celeste {
         background-color: #1B72E8;
-        width: calc(100vw - 150px);
+       
     }  
+    .colonnabianca {
+        height: calc(100vh - 190px);
+    
+    }
 }
 @media screen and (min-width: 1200px) {
     

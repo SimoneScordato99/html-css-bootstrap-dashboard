@@ -30,13 +30,23 @@ main > .row {
     padding-right: 0 !important;
     padding-left: 0 !important;
 }
+.collonnadidestra {
+    width: calc(100vw - 60px);
+
+}
+.colonnabianca {
+    height: calc(100vh - 341px);
+
+}
 .col-dx-celeste {
     background-color: #1B72E8;
-    width: calc(100vw - 60px);
 }
 .col-dx-celeste .rounded-pill {
     background-color: #004887 !important;
 }
 .offcanvas {
     --bs-offcanvas-width: 100%;
+}
+.img-tab {
+    width: 20px;
 }
